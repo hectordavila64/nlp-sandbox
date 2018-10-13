@@ -1,7 +1,6 @@
-## Proyecto para la CNJ
+## Proyecto para la ETCM
 
 Prototipo de inteligencia artificial para la detección de entidades
-en el marco judicial
 
 
 ## Comandos
